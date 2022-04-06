@@ -10,4 +10,6 @@
 
 ## periferiche
 
+[tastiere](./periferiche/tastiere.md)
+
 Elettronica Padovana
